@@ -1,12 +1,12 @@
 
 # SQL PORTFOLIO PROJECT
 
-Overview:
+##Overview:
 The objective of this project is to analyze the data using basic/intermediate SQL queries with SQL(SQL SERVER). The idea of analysing the data is to get the overview of what actutally is happening in a food delivery business.It consist of 10 columns such as userid,signup_date,price,item_id etc.
 
 Tools and Technologies: Utilized Microsoft SQL SERVER MANAGEMENT for data querying and data manipulation.
 
-Data Exploration:
+##Data Exploration:
 While Exploring Data with SQL, I worked on the following things.
 
 1.Created tables named 'users','goldusers','orders' and 'items'.
@@ -14,7 +14,7 @@ While Exploring Data with SQL, I worked on the following things.
 3.Merged 2 differnt tables and added the new column of userid with the help of primary key as userid column.
 4.With the help of aggregate functions AVG(), COUNT(), MIN(), MAX()and SUM(), I performed some queries on the data.
 
-SQL Queries: Developed SQL queries to segment customers based on purchase history, demographics, and customer behavior.
+##SQL Queries: Developed SQL queries to segment customers based on purchase history, demographics, and customer behavior.
 The following are the queries:
 List out all the item names along with their price.
 
@@ -38,7 +38,7 @@ List all the user id's from users and goldusers tables.
 
 What is the average cost of the items?
 
-Outcomes: This project led to data and business analysis that gives meaningful insights to the company.
+##Outcomes: This project led to data and business analysis that gives meaningful insights to the company.
 
-Learning Points: Enhanced SQL querying skills and gained experience in SQL.
+##Learning Points: Enhanced SQL querying skills and gained experience in SQL.
 
