@@ -10,8 +10,11 @@ Tools and Technologies: Utilized Microsoft SQL SERVER MANAGEMENT for data queryi
 While Exploring Data with SQL, I worked on the following things.
 
 1.Created tables named 'users','goldusers','orders' and 'items'.
+
 2.Inserted values into each table.
+
 3.Merged 2 differnt tables and added the new column of userid with the help of primary key as userid column.
+
 4.With the help of aggregate functions AVG(), COUNT(), MIN(), MAX()and SUM(), I performed some queries on the data.
 
 # SQL Queries: 
