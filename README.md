@@ -17,15 +17,25 @@ While Exploring Data with SQL, I worked on the following things.
 SQL Queries: Developed SQL queries to segment customers based on purchase history, demographics, and customer behavior.
 The following are the queries:
 List out all the item names along with their price.
+
 What is the most ordered item?
+
 Find the most expensive item from items?
+
 Find the least expensive item from items?
+
 Find out the users who signed up in the year 2015.
+
 What is the least ordered item?
+
 Find the items whose cost ranges from 100 t0 500?
+
 What is the total revenue in the year 2016?
+
 List the ice creams along with their prices from the items table.
+
 List all the user id's from users and goldusers tables.
+
 What is the average cost of the items?
 
 Outcomes: This project led to data and business analysis that gives meaningful insights to the company.
