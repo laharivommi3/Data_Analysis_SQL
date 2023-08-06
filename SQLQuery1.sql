@@ -91,3 +91,6 @@ select item_name,price from item where item_name like '%Cream';
 SELECT DISTINCT userid FROM users
 UNION
 SELECT DISTINCT userid FROM goldusers;
+
+--What is the average cost of the items ?
+select avg(a.price) as avg_price from item a inner join orders b on a.item_id=b.item_id;
