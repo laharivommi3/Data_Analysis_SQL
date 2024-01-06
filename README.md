@@ -2,7 +2,7 @@
 # SQL PORTFOLIO PROJECT
 
 # Overview:
-The objective of this project is to analyze the data using basic/intermediate SQL queries with SQL(SQL SERVER). The idea of analysing the data is to get the overview of what actutally is happening in a food delivery business.It consist of 10 columns such as userid,signup_date,price,item_id etc.
+The objective of this project is to analyze the data using basic/intermediate SQL queries with SQL(SQL SERVER). The idea of analysing the data is to get the overview of what actually is happening in a food delivery business.It consist of 10 columns such as userid,signup_date,price,item_id etc.
 
 # Tools and Technologies: 
 Utilized Microsoft SQL SERVER MANAGEMENT for data querying and data manipulation.
